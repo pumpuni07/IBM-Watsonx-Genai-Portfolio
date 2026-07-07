@@ -41,3 +41,20 @@ Running against live watsonx.ai requires `WATSONX_APIKEY` and `WATSONX_PROJECT_I
 AI/ML Engineer & Research Scientist | DAAD Scholar
 Python · PyTorch · Machine Learning · LLMs · RAG · MLOps
 GitHub: [pumpuni07](https://github.com/pumpuni07) · Portfolio: [jackpumpunifrimpongmanso.base44.app](https://jackpumpunifrimpongmanso.base44.app)
+
+
+---
+
+## Architecture
+
+See:
+
+`docs/architecture.md`
+
+
+## Screenshots
+
+See:
+
+`assets/screenshots`
+
