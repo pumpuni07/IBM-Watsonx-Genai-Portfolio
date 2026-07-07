@@ -1,0 +1,20 @@
+{
+  "full_name": "Alex Morgan Tan",
+  "headline": "Senior Data Scientist | ML Engineering | Geospatial Analytics",
+  "occupation": "Senior Data Scientist at Northwind Analytics",
+  "summary": "Data scientist with 8 years of experience building machine learning systems for climate and geospatial applications. DAAD alumnus. Speaker at PyData Berlin 2024.",
+  "country_full_name": "Germany",
+  "city": "Berlin",
+  "experiences": [
+    {"company": "Northwind Analytics", "title": "Senior Data Scientist", "starts_at": {"year": 2021}, "description": "Leads a team of 4 building satellite-imagery classification pipelines (PyTorch, Sentinel-2) that cut manual land-survey costs by 40%."},
+    {"company": "RheinTech GmbH", "title": "Data Scientist", "starts_at": {"year": 2018}, "ends_at": {"year": 2021}, "description": "Built demand-forecasting models serving 2M daily predictions."}
+  ],
+  "education": [
+    {"school": "Universität Bremen", "degree_name": "M.Sc.", "field_of_study": "Environmental Data Science", "starts_at": {"year": 2016}, "ends_at": {"year": 2018}},
+    {"school": "University of Cape Town", "degree_name": "B.Sc.", "field_of_study": "Applied Mathematics", "starts_at": {"year": 2012}, "ends_at": {"year": 2016}}
+  ],
+  "skills": ["Python", "PyTorch", "Machine Learning", "Remote Sensing", "MLOps", "SQL"],
+  "certifications": [],
+  "languages": ["English", "German"],
+  "volunteer_work": [{"company": "CodeDoor", "title": "Mentor", "description": "Mentors newcomers to Germany learning to code."}]
+}

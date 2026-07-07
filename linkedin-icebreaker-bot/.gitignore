@@ -2,11 +2,10 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
-env/
-.ipynb_checkpoints/
+my_env/
 .env
 *.env
 credentials*
 .DS_Store
 .vscode/
-.idea/
+flagged/

@@ -1,0 +1,9 @@
+# Verified working set (offline test suite passes on these exact versions):
+# llama-index-core 0.14.23, llama-index-llms-ibm 0.7.0.post1,
+# llama-index-embeddings-ibm 0.6.0.post1, gradio 6.19.0
+llama-index-core>=0.14
+llama-index-llms-ibm>=0.7
+llama-index-embeddings-ibm>=0.6
+ibm-watsonx-ai
+gradio>=6.0
+requests
